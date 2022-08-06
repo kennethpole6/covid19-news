@@ -1,0 +1,15 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer > * {
+  margin-right: 0.3rem;
+}
+
+.copyright {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
